@@ -4,4 +4,5 @@
 ## 项目上传步骤
 ### 页面方式上传
 * 登录管理员账号（技术组长保管）
-* ![baidu](https://github.com/NT-Feweb/images/feweb01.png) 
+* ![步骤一](https://github.com/NT-Feweb/feweb2018.11.5/blob/master/images/feweb01.png) 
+* ![步骤二](https://github.com/NT-Feweb/feweb2018.11.5/blob/master/images/feweb03.png) 
